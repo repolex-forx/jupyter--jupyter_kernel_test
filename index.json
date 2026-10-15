@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "jupyter_kernel_test",
+  "versions": [
+    {
+      "commit": "5f2c65271b48dc95fc75a9585cb1d6db0bb55557",
+      "tag": "v0.7.0",
+      "parsed_at": "2026-10-15T15:43:04.303106+00:00"
+    }
+  ]
+}
